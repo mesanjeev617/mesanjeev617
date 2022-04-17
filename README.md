@@ -1,6 +1,6 @@
 Hi there,👋 I’m @mesanjeev617
 
-I am a learning full stack web developer, currently graduated from Columbia College majoring in Management Information Systems.
+I am a learning Software Engineer, currently graduated from Columbia College majoring in Management Information Systems.
 I am always fascianted by problem solving. I believe that any problem in life is solvable with proper guidance and right tools. 
 
 👀 I’m interested in full stack software development emphasing on MERN stack and .NET using C# and JavaScript. 
